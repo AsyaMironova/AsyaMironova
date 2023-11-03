@@ -10,11 +10,11 @@
 
 ### :woman_technologist: About Me :
 
-- :computer: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :computer: I’m studing frontend and backend
 
-- :frog:
+- :frog: Started her way at school21
 
-- :keyboard: In my free time, I s
+- :keyboard: In my free time, I study DevOps
 
 ----
 
