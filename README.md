@@ -16,7 +16,7 @@
 
 - :frog: Started her way at school21
 
-- :keyboard: In my free time, I study DevOps
+- :keyboard: In my free time, I study DevOps and Java
 
 ----
 
