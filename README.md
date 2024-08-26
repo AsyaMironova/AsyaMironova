@@ -34,6 +34,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
 
+
+https://roadmap.sh/card/wide/66cc42ed92ec1a8a73717054?variant=dark&roadmaps=java%2Ccpp
+
+
 ----
 
 ### :fire: My Stats :
